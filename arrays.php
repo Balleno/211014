@@ -1,5 +1,5 @@
 <?php
 
-$nombres = array("Alberto", "Belén", "Carla", "Diego", "Elena", "Faustino");
+$nombres = array("Alberto", "Belén", "Carla", "Diego", "Elena", "Faustino", "Gabriela");
 
 ?>
